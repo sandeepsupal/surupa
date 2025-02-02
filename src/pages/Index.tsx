@@ -12,9 +12,8 @@ const Index = () => {
             <img 
               src="/lovable-uploads/d5c64836-99cd-4316-95a2-41c24ec5ed24.png" 
               alt="House of Surupa" 
-              className="w-[420px]"
+              className="w-[360px]"
             />
-            <p className="text-sm uppercase font-abeezee">Clothing Boutique</p>
           </div>
           <div className="flex items-center space-x-8 font-abeezee text-lg">
             <a href="#women">Women</a>
