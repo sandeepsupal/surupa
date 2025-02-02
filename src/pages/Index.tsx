@@ -27,7 +27,7 @@ const Index = () => {
       {/* Hero Section */}
       <section className="px-6 md:px-20 py-20 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 space-y-8">
-          <h2 className="font-cormorant text-6xl md:text-8xl leading-tight">
+          <h2 className="font-georgia text-6xl md:text-8xl leading-tight">
             Find Your Perfect <span className="text-primary">Blend</span> of Our
             <span className="text-primary"> Traditional</span> and Modern <span className="text-primary">Fashion</span>
           </h2>
