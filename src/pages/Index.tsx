@@ -9,7 +9,11 @@ const Index = () => {
       <header className="py-6 px-6 md:px-20">
         <nav className="flex justify-between items-center">
           <div className="flex items-center space-x-10">
-            <h1 className="font-cormorant text-primary text-3xl font-bold">House of Surupa</h1>
+            <img 
+              src="/lovable-uploads/d5c64836-99cd-4316-95a2-41c24ec5ed24.png" 
+              alt="House of Surupa" 
+              className="w-[420px]"
+            />
             <p className="text-sm uppercase font-abeezee">Clothing Boutique</p>
           </div>
           <div className="flex items-center space-x-8 font-abeezee text-lg">
@@ -27,7 +31,7 @@ const Index = () => {
       {/* Hero Section */}
       <section className="px-6 md:px-20 py-20 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 space-y-8">
-          <h2 className="font-georgia text-6xl md:text-8xl leading-tight">
+          <h2 className="font-georgia text-[4rem] leading-tight">
             Find Your Perfect <span className="text-primary">Blend</span> of Our
             <span className="text-primary"> Traditional</span> and Modern <span className="text-primary">Fashion</span>
           </h2>
