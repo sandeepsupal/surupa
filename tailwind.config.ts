@@ -40,6 +40,7 @@ export default {
       fontFamily: {
         cormorant: ["Cormorant Unicase", "serif"],
         abeezee: ["ABeeZee", "sans-serif"],
+        sans: ["Source Sans Pro", "sans-serif"], // Adding Source Sans Pro as the default sans font
       },
     },
   },
